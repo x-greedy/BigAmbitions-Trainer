@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 获取预览版 / Get the preview build
+    url: https://github.com/x-greedy/BigAmbitions-Trainer/issues
+    about: 想获取预览版（源码+更多功能）？请创建一个普通 Issue 留言。/ Want the preview build? Open a regular issue and leave a comment.
