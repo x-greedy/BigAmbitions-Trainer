@@ -31,10 +31,16 @@ An all-in-one trainer mod for [Big Ambitions](https://store.steampowered.com/app
 
 进入游戏后按 **ESC** → **选项（设置）** → 左侧 **Mods** 类别 → 使用全部功能。
 
-## 获取预览版 Get the Preview
+## 反馈 Feedback 💬
 
-想获取**预览版**（含源码、更多实验性功能）？请在本仓库留言（Issues）联系作者获取。
-Want the **preview build** (source + more experimental features)? Leave a comment (open an Issue) to contact the author.
+遇到 Bug、有功能建议？欢迎在 **Issues** 留言反馈！
+Found a bug or have a feature request? Please open an **Issue** - feedback is very welcome.
+
+- 🐛 Bug 报告：https://github.com/x-greedy/BigAmbitions-Trainer/issues （有模板）
+- 💡 功能建议 / 新功能讨论：同样在 Issues 留言
+
+想获取**预览版**（含源码、更多实验性功能）？也请在 Issues 留言联系作者获取。
+Want the **preview build** (source + more experimental features)? Also leave a comment in the Issues.
 
 ## 免责声明 Disclaimer
 
