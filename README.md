@@ -10,15 +10,17 @@ An all-in-one trainer mod for [Big Ambitions](https://store.steampowered.com/app
 | 💰 金钱 | 加钱 / 设定金额 / 自定义金额（1 ~ 20亿） | 一键增加或设定金钱 |
 | ⚡ 玩家 | 玩家属性全满 | 体力 / 饱腹 / 幸福度拉满 |
 | 🛡️ 玩家 | 无敌模式（开关） | 体力不减、不会进医院 |
-| 👔 员工 | 完美员工 | 已有技能提升到 100、满意度 100、无要求 |
+| 👔 员工 | 完美员工 | 已有技能提升到 100、满意度 100、只保留工时需求 |
 | 👔 员工 | 自动完美员工（开关） | 永久生效（含新雇员工） |
 | 🚗 车辆 | 车辆一键保养 | 加满油 / 洗净 / 修好 / 清罚单 |
 | 🎓 学历 | 学历全满 | 解锁课程 + 完成全部文凭 |
 | 🏆 目标 | 完成所有个人目标 | 一次性完成 |
+| 🏢 房地产 | 立即购买全部在售楼盘 | 以最低接受价买下 MarketInsider 全部在售楼盘（钱不够自动跳过） |
+| 🏢 房地产 | 房地产大亨（开关） | 每天自动购买新出现的在售楼盘 |
 
 ## 安装 Install
 
-1. 下载本页面 Release 中的 `MoneyHelperMod-v1.1.0.zip` 并解压
+1. 下载本页面 Release 中的 `MoneyHelperMod.zip` 并解压
 2. 把 `MoneyHelperMod.dll` 复制到：
    `%USERPROFILE%\AppData\LocalLow\Hovgaard Games\Big Ambitions\ModsLocal\MoneyHelper\`
    （没有 MoneyHelper 文件夹就新建一个）
